@@ -4,8 +4,11 @@ body {
 }
 
 nav {
-   background-color: rgb(50,50,50);
-   display: table;
+   background-color: rgb(50,50,50);display: grid;
+	align-items: center;
+	justify-items: center;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   height: 8%;
 }
 nav div {
    background-color: rgb(80,80,80);
