@@ -2,3 +2,11 @@ body {
    margin: 0px;
    background-color: rgb(200,200,200);
 }
+
+nav {
+   background-color: rgb(50,50,50);
+   display: table;
+}
+nav div {
+   background-color: rgb(80,80,80);
+}
