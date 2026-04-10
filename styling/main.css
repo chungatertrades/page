@@ -10,7 +10,7 @@ nav {
    align-items: center;
    justify-items: center;
    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-   height: 8%;
+   height: 80px;
 }
 nav div {
    background-color: rgb(80,80,80);
